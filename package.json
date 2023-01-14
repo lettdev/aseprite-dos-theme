@@ -1,0 +1,17 @@
+{
+  "name": "dos-theme",
+  "displayName": "DOS Theme",
+  "description": "A retro theme for retro pixel artists",
+  "version": "1.0",
+  "author": { "name": "Tung Le", "email": "tungkradle@gmail.com", "url": "https://tunglt.com/" },
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "dos", "path": "." }
+    ]
+  }
+}
